@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Marcella Rodrigues
 
-**`Desenvolvedora FullStack`**
+**`Fullstack Developer`**
 
 I'm currently in my fifth semester of college, diving deeper into programming and technology. I enjoy transforming ideas into practical solutions through code and I'm constantly looking for new challenges to grow and improve.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 My Tech Stacks
 
 <img 
     align="left" 
