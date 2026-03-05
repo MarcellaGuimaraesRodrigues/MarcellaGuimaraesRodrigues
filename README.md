@@ -33,6 +33,7 @@ I'm currently in my fifth semester of college, diving deeper into programming an
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img height="60" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript icon" />
 <img 
     align="left" 
     alt="React"
@@ -43,6 +44,7 @@ I'm currently in my fifth semester of college, diving deeper into programming an
 />
 <img height="60" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java icon"/>
 <img height="60" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL icon" />
+<img height="60" width="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" />
 <img 
     align="left" 
     alt="Next.js" 
