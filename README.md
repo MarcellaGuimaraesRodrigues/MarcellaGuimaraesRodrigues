@@ -16,7 +16,7 @@ I'm currently in my fifth semester of college, diving deeper into programming an
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img height="60" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" alt="styled-components icon" />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -25,6 +25,7 @@ I'm currently in my fifth semester of college, diving deeper into programming an
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -60,6 +61,7 @@ I'm currently in my fifth semester of college, diving deeper into programming an
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -70,7 +72,7 @@ I'm currently in my fifth semester of college, diving deeper into programming an
 />
 
 ---
-
+<br/>
 ## ✉ Contact Information
 
 <a href="mailto:marcellaguimaraes.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
